@@ -11,7 +11,7 @@ from gtts import gTTS
 
 # Токены
 TELEGRAM_TOKEN = os.getenv("8269598789:AAFrhPCLji4-CwJlV0E4pDI8XBNrCeVxrE4")
-HF_API_KEY = os.getenv("HF_API_KEY")  # Hugging Face API Token
+HF_API_KEY = os.getenv("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")  # Hugging Face API Token
 ADMIN_ID = int(os.getenv("ADMIN_USER_ID", "0"))
 
 # Шутки
