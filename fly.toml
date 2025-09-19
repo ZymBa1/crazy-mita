@@ -1,9 +1,0 @@
-app = "crazy-mita-bot"
-
-[build]
-  image = "python:3.11-slim"
-
-[env]
-  TELEGRAM_TOKEN = ""
-  HF_API_KEY = ""
-  ADMIN_USER_ID = ""
